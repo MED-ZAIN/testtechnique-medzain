@@ -24,6 +24,10 @@ git remote add origin git@github.com:MED-ZAIN/testtechnique-medzain.git
 git push -u origin main
 
 
+# Conclusion
+Je tiens à vous remercier, car c'est la première fois que je travaille avec Figma. Cela m'a pris beaucoup de temps pour comprendre le concept. J’ai besoin d’un peu plus de temps pour terminer ce travail, car je ne suis pas encore un professionnel.
+Vous savez, à l’université, on n’apprend que de petits outils comme JavaScript et Bootstrap, mais pas d’autres outils plus avancés.
+Encore une fois, je vous remercie chaleureusement, Monsieur Sidibé Ousmane, pour votre patience et votre aide précieuse. A bientôt !
 
 
 

@@ -1,12 +1,20 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { CommonModule } from '@angular/common';
+import { RouterModule } from '@angular/router';
+import { AddServiceComponent } from './components/add-service/add-service.component';
+import { ServiceListComponent } from './components/service-list/service-list.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  standalone: true,
+  imports: [CommonModule, RouterModule],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-project';
+  menuItems = [
+    { title: 'Ajout Service', route: '/add-service' },
+    { title: 'Services', route: '/services' },
+    
+  ];
 }

@@ -1,3 +1,39 @@
+# Ce projet est un système de gestion des services développé avec Angular 19, Tailwind CSS et TypeScript. Il offre les fonctionnalités suivantes :
+
+Liste des services disponibles
+Ajout de nouveaux services
+Suppression de services avec confirmation
+Filtrage des services par catégorie et statut
+
+
+# Technologies Utilisées
+
+Angular 19 : Framework frontend
+Tailwind CSS : Gestion du style
+TypeScript : JavaScript fortement typé
+RxJS : Programmation réactive
+GitHub : Gestion de version
+
+# Les cmd de Git pour deposer mon projet sur github
+
+git init
+git add .
+git commit -m " test technique"
+git branch -M main
+git remote add origin git@github.com:MED-ZAIN/testtechnique-medzain.git
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
 # MyProject
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
